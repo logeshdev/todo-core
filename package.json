@@ -1,0 +1,23 @@
+{
+  "name": "todo-core",
+  "version": "1.0.0",
+  "description": "core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logeshdev/todo-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logeshdev/todo-core/issues"
+  },
+  "homepage": "https://github.com/logeshdev/todo-core#readme",
+  "dependencies": {
+    "rxjs": "^7.5.5"
+  }
+}
